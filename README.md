@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Deep Music Generation project 
-- 🌱 I’m currently learning almost everything I find interesting related to DL/CV
+- 🌱 I’m currently learning almost everything I find interesting related to DL/CV/NLP
 - 👯 I’m looking to collaborate on Research projects related to Computer Vision and Natural Language Processing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arpan-tripathi-6ba407162/)
 - 📑 [Resume](https://drive.google.com/file/d/1rklC5dNlMAlGY22EBiFBWNGn0X8YCIYP/view?usp=sharing)
-- ⚡ Fun fact: I love Gaming but have yet to work on applications of AI in them, I plan on exploring applications of AI in Game Development soon.
+- ⚡ Fun fact: I love Gaming but yet to work on any application of AI in one, planning on exploring applications of AI in Game Development soon.
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
