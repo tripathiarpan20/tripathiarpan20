@@ -7,12 +7,11 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Deep Music Generation project 
-- 🌱 I’m currently learning almost everything I find interesting related to DL/CV/NLP
+- 🔭 I’m currently working at Webaverse on Generative AI.
+- 🌱 I’m currently learning about applications/frameworks related to Generative AI, including inference-time optimizations, deployment.
 - 👯 I’m looking to collaborate on Research projects related to Computer Vision and Natural Language Processing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arpan-tripathi-6ba407162/)
 - 📑 [Resume](https://drive.google.com/file/d/1iS8kzTHY3MlVuRZe40MdscN3H56j0ZLt/view?usp=sharing)
-- ⚡ Fun fact: I love Gaming but yet to work on any application of AI in one, planning on exploring applications of AI in Game Development soon.
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
