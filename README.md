@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at Webaverse on Generative AI.
+- 📑 Also completing the AI & ML Master's dissertation at The University of Birmingham. 
 - 🌱 I’m currently learning about applications/frameworks related to Generative AI, including inference-time optimizations, deployment.
 - 👯 I’m looking to collaborate on Research projects related to Computer Vision and Natural Language Processing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arpan-tripathi-6ba407162/)
