@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about applications/frameworks related to Generative AI, including inference-time optimizations, deployment.
 - 👯 I’m looking to collaborate on projects related to applications of Generative AI (such as LLMs, Stable Diffusion, Whisper etc).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arpan-tripathi-6ba407162/)
-- 📑 [Resume](https://drive.google.com/file/d/1iS8kzTHY3MlVuRZe40MdscN3H56j0ZLt/view?usp=sharing)
+- 📑 [Resume](https://www.linkedin.com/in/arpan-tripathi/details/featured/1635548821898/single-media-viewer/?profileId=ACoAACbcAy4BWvlN2H72Eryon2JU8aa7A3R-fAs)
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
