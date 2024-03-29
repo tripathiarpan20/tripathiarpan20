@@ -7,12 +7,11 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Generative AI.
-- 📑 Also completing the AI & ML Master's dissertation at The University of Birmingham. 
+- 🔭 I’m currently working on Generative AI at Upstreet AI.
+- 📑 Completed the AI & ML Master's at The University of Birmingham with Distinction grade. 
 - 🌱 I’m currently learning about applications/frameworks related to Generative AI, including inference-time optimizations, deployment.
 - 👯 I’m looking to collaborate on projects related to applications of Generative AI (such as LLMs, Stable Diffusion, Whisper etc).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arpan-tripathi-6ba407162/)
-- 📑 [Resume](https://www.linkedin.com/in/arpan-tripathi/details/featured/1635548823906/single-media-viewer/?profileId=ACoAACbcAy4BWvlN2H72Eryon2JU8aa7A3R-fAs)
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
