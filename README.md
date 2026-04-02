@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Decentralised Video compression & upscaling at Vidaio.
+- 🔭 I’m currently working on Decentralised AI Video compression & upscaling at Vidaio.
 - 📑 Completed the AI & ML Master's at The University of Birmingham with Distinction grade. 
 - 🌱 I’m currently learning about applications/frameworks related to Generative AI, including inference-time optimizations, deployment.
 - 👯 I’m looking to collaborate on projects related to applications of Generative AI (such as LLMs, Stable Diffusion, Whisper etc).
@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tripathiarpan20&count_private=true&show_icons=true&theme=dark" />
-</a>
+[![Arpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripathiarpan20&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiarpan20&hide=jupyter%20notebook&layout=compact" />
 </a>
