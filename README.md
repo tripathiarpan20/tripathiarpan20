@@ -40,8 +40,5 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-[![Arpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripathiarpan20&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiarpan20&hide=jupyter%20notebook&layout=compact" />
-</a>
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
