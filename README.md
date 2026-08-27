@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Decentralised AI Video compression & upscaling at Vidaio.
+- 🔭 I’m currently working on Decentralised AI
 - 📑 Completed the AI & ML Master's at The University of Birmingham with Distinction grade. 
 - 🌱 I’m currently learning about applications/frameworks related to Generative AI, including inference-time optimizations, deployment.
 - 👯 I’m looking to collaborate on projects related to applications of Generative AI (such as LLMs, Stable Diffusion, Whisper etc).
